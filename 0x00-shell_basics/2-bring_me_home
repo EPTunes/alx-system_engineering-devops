@@ -1,1 +1,2 @@
--r  #!bin/bash \n "cd ~" 
+#!/bin/bash
+cd
